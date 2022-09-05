@@ -1,5 +1,5 @@
 ### Hi there, I'm Ragil Prasetyo 👋
-Data Enthusiast | Check my pinned to see some of my works
+Web & Data Enthusiast | Check my pinned to see some of my works
 
 <!--
 **ragilhadi/ragilhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
