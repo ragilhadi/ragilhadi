@@ -5,7 +5,6 @@
 ### Hi there, I'm Ragil Prasetyo 👋
 Web & Data Enthusiast | Check my pinned to see some of my works
 
-- 🔭 I’m currently working on ...
 
 <!--
 **ragilhadi/ragilhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,13 +21,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.codewars.com/users/ragilhadi">
-  <img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
-</a>
 
-<a href="https://www.hackerrank.com/ragil_hadi">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
-</a>
+<div align="center">
+  <a href="https://www.codewars.com/users/ragilhadi">
+    <img src="https://www.codewars.com/users/ragilhadi/badges/small" alt="codewars stats" />
+  </a>
+
+  <a href="https://www.hackerrank.com/ragil_hadi">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
+  </a>
+  
+  <a href="https://leetcode.com/ragilhadi/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
+  </a>
+  
+  <a href="https://www.kaggle.com/ragilhadip">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
+  </a>
+</div<
+
 
 **Stats:**
 
