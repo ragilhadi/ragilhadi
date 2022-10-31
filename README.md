@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ### Hi there, I'm Ragil Prasetyo 👋
 Web & Data Enthusiast | Check my pinned to see some of my works
 
@@ -51,6 +47,8 @@ Here are some ideas to get you started:
 **Stats:**
 
 <img src="https://komarev.com/ghpvc/?username=ragilhadi" alt="ragilhadi">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ragilhadi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/ragilhadi">
