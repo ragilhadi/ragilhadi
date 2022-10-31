@@ -1,5 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there, I'm Ragil Prasetyo 👋
 Web & Data Enthusiast | Check my pinned to see some of my works
+
+- 🔭 I’m currently working on ...
 
 <!--
 **ragilhadi/ragilhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +24,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.codewars.com/users/ragilhadi">
   <img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
+</a>
+
+<a href="https://www.hackerrank.com/ragil_hadi">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
 </a>
 
 **Stats:**
