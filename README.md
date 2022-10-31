@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
+
 **Stats:**
 
 <img src="https://komarev.com/ghpvc/?username=ragilhadi" alt="ragilhadi">
