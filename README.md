@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
+<a href="https://www.codewars.com/users/ragilhadi">
+  <img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
+</a>
 
 **Stats:**
 
