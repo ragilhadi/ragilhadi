@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 **Stats:**
 
 <img src="https://komarev.com/ghpvc/?username=ragilhadi" alt="ragilhadi">
-
+<!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ragilhadi&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragilhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 <p align="center">
   <a href="https://github.com/ragilhadi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragilhadi&hide=html" />
