@@ -37,6 +37,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
   </a>
   
+  <a href="[https://leetcode.com/ragilhadi/](https://www.linkedin.com/in/ragil-hadi-prasetyo/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  
   <a href="https://www.kaggle.com/ragilhadip">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
