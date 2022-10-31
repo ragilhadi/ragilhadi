@@ -23,25 +23,26 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://www.codewars.com/users/ragilhadi">
+  <a href="https://www.codewars.com/users/ragilhadi" target="blank">
     <img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
   </a>
   
   <br/>
+  <br/>
 
-  <a href="https://www.hackerrank.com/ragil_hadi">
+  <a href="https://www.hackerrank.com/ragil_hadi" target="blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
   </a>
   
-  <a href="https://leetcode.com/ragilhadi/">
+  <a href="https://leetcode.com/ragilhadi/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/>
   </a>
   
-  <a href="[https://leetcode.com/ragilhadi/](https://www.linkedin.com/in/ragil-hadi-prasetyo/)">
+  <a href="https://www.linkedin.com/in/ragil-hadi-prasetyo/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   
-  <a href="https://www.kaggle.com/ragilhadip">
+  <a href="https://www.kaggle.com/ragilhadip" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
 </div>
