@@ -1,7 +1,3 @@
-### Hi there, I'm Ragil Prasetyo 👋
-Web & Data Enthusiast | Check my pinned to see some of my works
-
-
 <!--
 **ragilhadi/ragilhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div align="center">
   <a href="https://www.codewars.com/users/ragilhadi" target="blank">
     <img src="https://www.codewars.com/users/ragilhadi/badges/large" alt="codewars stats" />
@@ -42,20 +38,35 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
   </a>
 </div>
+-->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragilhadi&show_icons=true&theme=dracula" alt="Gading Github Stats">
+  <br><br>
+  <!--
+  <img src="https://komarev.com/ghpvc/?username=ragilhadi&color=F4A4B5&style=flat" alt="ragilhadi's Github Profile Views" />
+  <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded" />
+  -->
+  <br><br>
+</div>
+<br>
 
-**Stats:**
+👋 Hello. My full name is Ragil Hadi Prasetyo, and you can call me ***"Ragil"***. I am an entry level data scientist with job scope experience building AI model using machine learning and deep learning.
 
-<img src="https://komarev.com/ghpvc/?username=ragilhadi" alt="ragilhadi">
-<!-- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ragilhadi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragilhadi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<p align="center">
-  <a href="https://github.com/ragilhadi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragilhadi&hide=html" />
-  </a>
-  <a href="https://github.com/ragilhadi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ragilhadi&show_icons=true&line_height=40&count_private=true" alt="Ragilhadi's GitHub Stats" />
-  </a>
-</p>
+## 💼 Career
+I'm working full-time remotely as a ***Data Science Lecture*** at ***Purwadhika Digital Technology School***
+I have <1 YoE in professional works and about ~4+ YoE in Learning about Programming (started in 2018).
+<!--
+## 🔍 Website:
+- Blockchain, Cryptography, Web3/DApps, Solidity
+- DevX, Platform Engineering, Guideline & Tech Docs Writing
+-->
+## 🚀 How to reach me:
+- Web: [ragilhadi](https://ragilhadi.github.io/portfolio/)
+- Email: [ragilhprasetyo@gmail.com](mailto:ragilhprasetyo@gmail.com)
+- LinkedIn: [ragil hadi prasetyo](https://www.linkedin.com/in/ragil-hadi-prasetyo/)
+- Twitter: [@ragilhadi_](https://twitter.com/ragilhadi_)
+
+---
+
+© 2023 — Ragil Hadi Prasetyo
