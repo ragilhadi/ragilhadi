@@ -47,9 +47,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=ragilhadi&color=F4A4B5&style=flat" alt="ragilhadi's Github Profile Views" />
   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded" />
   -->
-  <br><br>
 </div>
-<br>
 
 👋 Hello. My full name is Ragil Hadi Prasetyo, and you can call me ***"Ragil"***. I am an entry level data scientist with job scope experience building AI model using machine learning and deep learning.
 
