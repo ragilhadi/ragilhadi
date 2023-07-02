@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 👋 Hello. My full name is Ragil Hadi Prasetyo, and you can call me ***"Ragil"***. I am an entry level data scientist with job scope experience building AI model using machine learning and deep learning.
 
 ## 💼 Career
-I'm working full-time remotely as a ***Data Science Lecture*** at ***Purwadhika Digital Technology School***
+I'm working full-time as a ***Data Science Lecture*** at ***Purwadhika Digital Technology School***
 I have <1 YoE in professional works and about ~4+ YoE in Learning about Programming (started in 2018).
 <!--
 ## 🔍 Website:
