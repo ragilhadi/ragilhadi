@@ -40,31 +40,28 @@ Here are some ideas to get you started:
 </div>
 -->
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragilhadi&show_icons=true&theme=dracula" alt="Gading Github Stats">
   <br><br>
-  <!--
   <img src="https://komarev.com/ghpvc/?username=ragilhadi&color=F4A4B5&style=flat" alt="ragilhadi's Github Profile Views" />
   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded" />
-  -->
 </div>
+-->
 
-👋 Hello. My full name is Ragil Hadi Prasetyo, and you can call me ***"Ragil"***. I am an entry level data scientist with job scope experience building AI model using machine learning and deep learning.
-
+👋 Hello. My full name is Ragil Hadi Prasetyo
 ## 💼 Career
 I'm working full-time as a ***AI Engineer*** at ***GLAIR***
-I have 1 YoE in professional works and about ~5.5+ YoE in Learning about Programming (started in 2018).
 <!--
 ## 🔍 Website:
 - Blockchain, Cryptography, Web3/DApps, Solidity
 - DevX, Platform Engineering, Guideline & Tech Docs Writing
 -->
 ## 🚀 How to reach me:
-- Web: [ragilhadi](https://ragilhadi.github.io/portfolio/)
 - Email: [ragilhprasetyo@gmail.com](mailto:ragilhprasetyo@gmail.com)
 - LinkedIn: [ragil hadi prasetyo](https://www.linkedin.com/in/ragil-hadi-prasetyo/)
 - Twitter: [@ragilhadi_](https://twitter.com/ragilhadi_)
 
 ---
 
-© 2023 — Ragil Hadi Prasetyo
+© 2025 — Ragil Hadi Prasetyo
