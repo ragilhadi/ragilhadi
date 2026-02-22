@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 👋 Hello. My full name is Ragil Hadi Prasetyo
 ## 💼 Career
-I'm working full-time as a ***AI Engineer*** at ***GLAIR***
+I'm working full-time as a ***AI Engineer*** at ***GLAIR | GDP Labs***
 <!--
 ## 🔍 Website:
 - Blockchain, Cryptography, Web3/DApps, Solidity
